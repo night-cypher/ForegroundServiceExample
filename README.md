@@ -1,5 +1,7 @@
 # ForegroundServiceExample
 
-This is the sample source code of foreground service in android.
+This is the sample source code of Foreground service in android.
 
-For more information go to www.questdot.com
+Steps by steps tutorial please visit http://www.questdot.com/android-foreground-service/
+
+For more information go to http://www.questdot.com
